@@ -31,7 +31,6 @@ Cependant, étant basée sur les données de « Open Food Fact » la fiabilité 
 <img src="https://github.com/MayChoueib/Projet-Conception-d-une-application-de-sante-publique-Open-Food-Fact-/blob/main/produits-scores.jpg" width="600" height="200" />
 
 <img src="https://github.com/MayChoueib/Projet-Conception-d-une-application-de-sante-publique-Open-Food-Fact-/blob/main/carbs-par-score.jpg" width="200" height="200" />
-<img src="https://github.com/MayChoueib/Projet-Conception-d-une-application-de-sante-publique-Open-Food-Fact-/blob/main/sodium-score.jpg" width="200" height="200" />
 
 En effet, les carbohydrates qui se décomposent en scure dans le corps ne sont pas pris en compte dans le calcul du Nutri-Score (on voit même des Nutri-Scores verts avec une quantité de plus que 80% de carbohydrates comme les pizzas par exemple! La quantité de sodium est relativement élevée pour un score santé. Des nutriscores verts se rapprochent de la moitié de l’apport quotidien toléré pour une personne en bonne santé et cela pour une quantité de 100g! 
 
@@ -44,15 +43,15 @@ Le nutriscore se construit sous la forme d’une échelle de notation allant de 
 Environ 1/3 (32%) des produits sont considérés comme bon pour la santé selon le Nutri-Score (A et B)!    
 
 Le projet est découpé en deux parties:   
-## 1. Notebook PSanté_notebook_nettoyage   
+### 1. Notebook PSanté_notebook_nettoyage   
 • L'objectif de ce notebook est de nettoyer le jeu de données et de repérer des variables pertinentes pour l'application que je propose  
 
-## 2. Notebook PSanté_notebook_exploration
-• L'objectif de ce notebook est l'exploration et l'analyse des données qui va me permettre la création des scores de certaines maladies chroniques à titre d'exemple :la  diabète, l'hypertension, la lithiase rénale et la maladie cœliaque (l'intolérance au gluten). Je montre avec les scores crées une démonstration de la faisabilité de l'application	    
+### 2. Notebook PSanté_notebook_exploration
+• L'objectif de ce notebook est l'exploration et l'analyse des données qui va me permettre la création des scores de certaines maladies chroniques à titre d'exemple :la  diabète, l'hypertension, la lithiase rénale et la maladie cœliaque (l'intolérance au gluten). Je montre avec les scores crées une démonstration de la faisabilité de l'application	        
 
 
-### Références
-* Une large documentation a été effectuée dans le cadre de la création des scores de maladies retenues comme exemples pour la réalisation de l'application dans ce notebook. Les principales références retenues sont :   
+### Références 
+*Une large documentation a été effectuée dans le cadre de la création des scores de maladies retenues comme exemples pour la réalisation de l'application dans ce notebook. Les principales références retenues sont :   
 https://www.snfge.org/content/maladie-coeliaque (Société Nationale Française de Gastro-Entérologie)   
 https://hypertension.ca/   
 Institute of Medicine of the National Academies (IOM) des États-Unis   

@@ -32,7 +32,7 @@ Cependant, étant basée sur les données de « Open Food Fact » la fiabilité 
 
 <img src="https://github.com/MayChoueib/Projet-Conception-d-une-application-de-sante-publique-Open-Food-Fact-/blob/main/produits-scores-healthy.jpg" width="600" height="150" />
 
-<img src="https://github.com/MayChoueib/Projet-Conception-d-une-application-de-sante-publique-Open-Food-Fact-/blob/main/carbs-sodium-nutriscore2.jpg" width="800" height="300" />
+<img src="https://github.com/MayChoueib/Projet-Conception-d-une-application-de-sante-publique-Open-Food-Fact-/blob/main/carbs-sodium-nutriscore2.jpg" width="400" height="300" />
 
 En effet, les carbohydrates qui se décomposent en scure dans le corps ne sont pas pris en compte dans le calcul du Nutri-Score (on voit même des Nutri-Scores verts avec une quantité de plus que 80% de carbohydrates comme les pizzas par exemple! La quantité de sodium est relativement élevée pour un score santé. Des nutriscores verts se rapprochent de la moitié de l’apport quotidien toléré pour une personne en bonne santé et cela pour une quantité de 100g! 
 
@@ -41,7 +41,7 @@ Le nutriscore se construit sous la forme d’une échelle de notation allant de 
 – favorisant : fibres, protéines, fruits, légumes  
 – limitant  : énergie, acides gras saturés, sucres, sel      
 
-<img src="https://github.com/MayChoueib/Projet-Conception-d-une-application-de-sante-publique-Open-Food-Fact-/blob/main/distribution-nutriscore-aliments.jpg" width="250" height="200" />
+<img src="https://github.com/MayChoueib/Projet-Conception-d-une-application-de-sante-publique-Open-Food-Fact-/blob/main/distribution-nutriscore-aliments.jpg" width="250" height="250" />
 Comme on peut le constater, environ 1/3 (32%) des produits du dataset sont considérés comme bon pour la santé selon le Nutri-Score (A et B)  
 
 Le projet est découpé en deux parties:   

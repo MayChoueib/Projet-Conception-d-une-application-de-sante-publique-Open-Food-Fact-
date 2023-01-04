@@ -28,7 +28,7 @@ L’application peut facilement être étendue pour d'autres maladies chroniques
  
 Cependant, étant basée sur les données de « Open Food Fact » la fiabilité de l'application en dépend de celle de ces données. A noter que le Nutri-Score fourni par le jeu des données de « Open Food Fact » ne se concorde pas avec les scores de certaines maladies qui se basent entre autre sur les quantités de sucre ou de sel à consommer. 
 
-<img src="https://github.com/MayChoueib/Projet-Conception-d-une-application-de-sante-publique-Open-Food-Fact-/blob/main/produits-scores.jpg" width="200" height="200" />
+<img src="https://github.com/MayChoueib/Projet-Conception-d-une-application-de-sante-publique-Open-Food-Fact-/blob/main/produits-scores.jpg" width="600" height="200" />
 
 <img src="https://github.com/MayChoueib/Projet-Conception-d-une-application-de-sante-publique-Open-Food-Fact-/blob/main/carbs-par-score.jpg" width="200" height="200" />
 <img src="https://github.com/MayChoueib/Projet-Conception-d-une-application-de-sante-publique-Open-Food-Fact-/blob/main/sodium-score.jpg" width="200" height="200" />
@@ -51,12 +51,12 @@ Le projet est découpé en deux parties:
 • L'objectif de ce notebook est l'exploration et l'analyse des données qui va me permettre la création des scores de certaines maladies chroniques à titre d'exemple :la  diabète, l'hypertension, la lithiase rénale et la maladie cœliaque (l'intolérance au gluten). Je montre avec les scores crées une démonstration de la faisabilité de l'application	    
 
 
- 
-*Références pour la création des scores maladies : Une large documentation a été effectuée dans le cadre de la création des scores de maladies retenues comme exemples pour la réalisation de l'application dans ce notebook. Les principales références retenues sont :
-https://www.snfge.org/content/maladie-coeliaque (Société Nationale Française de Gastro-Entérologie)
-https://hypertension.ca/
-Institute of Medicine of the National Academies (IOM) des États-Unis
-https://www.diabetes.ca/ https://www.diabete.qc.ca/ American Association of Diabetes Educator (AADE)
-https://rein.ca/ ; http://www.urofrance.org/fileadmin/medias/afu/communiques/2015-12-07_calculs-urinaires.pdf (Association française d’urologie)
-ANSES (Agence nationale de sécurité sanitaire de l’alimentation, de l’environnement et du travail) OMS (Organisation Mondiale de la Santé)
+### Références
+* Une large documentation a été effectuée dans le cadre de la création des scores de maladies retenues comme exemples pour la réalisation de l'application dans ce notebook. Les principales références retenues sont :   
+https://www.snfge.org/content/maladie-coeliaque (Société Nationale Française de Gastro-Entérologie)   
+https://hypertension.ca/   
+Institute of Medicine of the National Academies (IOM) des États-Unis   
+https://www.diabetes.ca/ https://www.diabete.qc.ca/ American Association of Diabetes Educator (AADE)    
+https://rein.ca/ ; http://www.urofrance.org/fileadmin/medias/afu/communiques/2015-12-07_calculs-urinaires.pdf (Association française d’urologie)   
+ANSES (Agence nationale de sécurité sanitaire de l’alimentation, de l’environnement et du travail) OMS (Organisation Mondiale de la Santé)*  
 

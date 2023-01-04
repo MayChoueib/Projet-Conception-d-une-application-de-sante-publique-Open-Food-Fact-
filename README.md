@@ -7,7 +7,7 @@ L'agence "Santé publique France" a lancé un appel à projets pour trouver des 
 ## Données
 Les données sont disponibles sur le site officiel https://world.openfoodfacts.org/   
 Les variables sont définies à l’adresse : https://world.openfoodfacts.org/data/data-fields.txt     
-Un fichier CSV :  
+Un seul fichier CSV qui contient :  
 o	320772 lignes et 162 colonnes     
 o	56 colonnes de types objet (nom du produit, marque, ingredients, etc)     
 o	106 colonnes de type float (macro et micro nutriments / 100g composants le produit, nutriscore, etc) avec beaucoup de valeurs aberrantes      

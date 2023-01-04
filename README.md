@@ -1,7 +1,6 @@
 # Conception d’une application de santé publique – Open Food Fact
 #### OpenClassrooms – Diplôme Data Scientist
-
-
+-----
 L'agence "Santé publique France" a lancé un appel à projets pour trouver des idées innovantes d’applications en lien avec l'alimentation à partir des données de « Open Food Fact »
 ## Mission  
 • Élaborer une idée d’application en identifier les arguments justifiant la faisabilité (ou non) de l’application à partir des données Open Food Facts.
@@ -29,7 +28,7 @@ L’application peut facilement être étendue pour d'autres maladies chroniques
 Cependant, étant basée sur les données de « Open Food Fact » la fiabilité de l'application en dépend de celle de ces données. A noter que le Nutri-Score fourni par le jeu des données de « Open Food Fact » ne se concorde pas avec les scores de certaines maladies qui se basent entre autre sur les quantités de sucre ou de sel à consommer. 
 
 
-<img src="https://github.com/MayChoueib/Projet-Conception-d-une-application-de-sante-publique-Open-Food-Fact-/blob/main/ex-produits-scores.jpg" width="600" height="250" />
+<img src="https://github.com/MayChoueib/Projet-Conception-d-une-application-de-sante-publique-Open-Food-Fact-/blob/main/ex-produits-scores.jpg" width="800" height="250" />
 
 <img src="https://github.com/MayChoueib/Projet-Conception-d-une-application-de-sante-publique-Open-Food-Fact-/blob/main/carbs-sodium-nutriscore2.jpg" width="600" height="300" />
 

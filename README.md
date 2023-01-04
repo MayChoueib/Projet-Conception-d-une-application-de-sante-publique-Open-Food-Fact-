@@ -1,6 +1,6 @@
 # Conception d’une application de santé publique – Open Food Fact
-### OpenClassrooms – Diplôme Data Scientist
----
+#### OpenClassrooms – Diplôme Data Scientist
+
 
 L'agence "Santé publique France" a lancé un appel à projets pour trouver des idées innovantes d’applications en lien avec l'alimentation à partir des données de « Open Food Fact »
 ## Mission  
@@ -32,7 +32,7 @@ Cependant, étant basée sur les données de « Open Food Fact » la fiabilité 
 
 <img src="https://github.com/MayChoueib/Projet-Conception-d-une-application-de-sante-publique-Open-Food-Fact-/blob/main/produits-scores-healthy.jpg" width="600" height="150" />
 
-<img src="https://github.com/MayChoueib/Projet-Conception-d-une-application-de-sante-publique-Open-Food-Fact-/blob/main/carbs-sodium-nutriscore2.jpg" width="400" height="300" />
+<img src="https://github.com/MayChoueib/Projet-Conception-d-une-application-de-sante-publique-Open-Food-Fact-/blob/main/carbs-sodium-nutriscore2.jpg" width="500" height="250" />
 
 En effet, les carbohydrates qui se décomposent en scure dans le corps ne sont pas pris en compte dans le calcul du Nutri-Score (on voit même des Nutri-Scores verts avec une quantité de plus que 80% de carbohydrates comme les pizzas par exemple! La quantité de sodium est relativement élevée pour un score santé. Des nutriscores verts se rapprochent de la moitié de l’apport quotidien toléré pour une personne en bonne santé et cela pour une quantité de 100g! 
 

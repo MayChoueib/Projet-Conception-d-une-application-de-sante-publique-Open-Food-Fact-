@@ -21,19 +21,26 @@ L'application **'NUTRI CARE'** que je propose indique si un produit alimentaire 
 Score 1 ---> produit alimentaire non approprié**
 
 Pour l'étude de la faisabilité de l’application, j’ai inclus quatre exemples de maladies chroniques : la diabète, l'hypertension, la lithiase rénale et la maladie cœliaque (l'intolérance au gluten).  
+
+<img src="https://github.com/MayChoueib/Projet-Conception-d-une-application-de-sante-publique-Open-Food-Fact-/blob/main/app-Nutri-care.jpg" width="200" height="200" />
+
 L’application peut facilement être étendue pour d'autres maladies chroniques liées à l'alimentation : la maladie de cœur ‘ATHÉROME ET CORONAROPATHIES’, l'ostéoporose, la goutte (l'inflammation d'articulations due à des dépôts de cristaux d'acide urique provenant de la dégradation des aliments), etc... Pour certaines maladies, il suffit de composer un score de synthèse à partir de ceux déjà réalisés dans ce projet.   
  
-Cependant, étant basée sur les données de « Open Food Fact » la fiabilité de l'application en dépend de celle de ces données. A noter que le Nutri-Score fourni par le jeu des données de « Open Food Fact » ne se concorde pas avec les scores de certaines maladies qui se basent entre autre sur les quantités de sucre ou de sel à consommer. Pour rappel, le Nutri-Score a été développé pour faciliter la compréhension des informations nutritionnelles par les consommateurs et les guider vers des choix alimentaires associés à leur état de santé (d’apres Santé publique France et les articles associés au Nutri-Score)
-Le nutriscore se construit sous la forme d’une échelle de notation allant de la lettre A à E (scores équivalents dans le projet de 5 à 1). 
-Il permet de comparer les produits alimentaires en :
-– favorisant : fibres, protéines, fruits, légumes
-– limitant  : énergie, acides gras saturés, sucres, sel
-Environ 1/3 (32%) des produits sont considérés comme bon pour la santé selon le Nutri-Score (A et B)! 
+Cependant, étant basée sur les données de « Open Food Fact » la fiabilité de l'application en dépend de celle de ces données. A noter que le Nutri-Score fourni par le jeu des données de « Open Food Fact » ne se concorde pas avec les scores de certaines maladies qui se basent entre autre sur les quantités de sucre ou de sel à consommer.    
 
-<img src="https://github.com/MayChoueib/Projet-Conception-d-une-application-de-sante-publique-Open-Food-Fact-/blob/main/distribution-nutriscore-aliments.jpg" width="200" height="400" />
 En effet, les carbohydrates qui se décomposent en scure dans le corps ne sont pas pris en compte dans le calcul du Nutri-Score (on voit même des Nutri-Scores verts avec une quantité de plus que 80% de carbohydrates comme les pizzas par exemple!
-![]()
+<img src="https://github.com/MayChoueib/Projet-Conception-d-une-application-de-sante-publique-Open-Food-Fact-/blob/main/distribution-nutriscore-aliments.jpg" width="200" height="200" />
+
 -	La quantité de sodium est relativement élevée pour un score santé. Des nutriscores verts se rapprochent de la moitié de l’apport quotidien toléré pour une personne en bonne santé et cela pour une quantité de 100g! image
+
+Pour rappel, le Nutri-Score a été développé pour faciliter la compréhension des informations nutritionnelles par les consommateurs et les guider vers des choix alimentaires associés à leur état de santé (d’apres Santé publique France et les articles associés au Nutri-Score)
+Le nutriscore se construit sous la forme d’une échelle de notation allant de la lettre A à E (scores équivalents dans le projet de 5 à 1). Il permet de comparer les produits alimentaires en :   
+– favorisant : fibres, protéines, fruits, légumes  
+– limitant  : énergie, acides gras saturés, sucres, sel      
+
+<img src="https://github.com/MayChoueib/Projet-Conception-d-une-application-de-sante-publique-Open-Food-Fact-/blob/main/distribution-nutriscore-aliments.jpg" width="200" height="200" />
+Environ 1/3 (32%) des produits sont considérés comme bon pour la santé selon le Nutri-Score (A et B)!    
+
 
 Le projet est découpé en deux parties:   
 ## 1. Partie   : notebook ----

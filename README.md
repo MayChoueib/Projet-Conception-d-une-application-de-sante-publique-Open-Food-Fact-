@@ -1,5 +1,4 @@
-# Conception d’une application de santé publique – Open Food Fact
----
+# Conception d’une application de santé publique – Open Food Fact ---
 ### OpenClassrooms – Diplôme Data Scientist
 ---
 

@@ -30,7 +30,7 @@ Cependant, étant basée sur les données de « Open Food Fact » la fiabilité 
 
 <img src="https://github.com/MayChoueib/Projet-Conception-d-une-application-de-sante-publique-Open-Food-Fact-/blob/main/products-scores-not-healthy.jpg" width="600" height="150" />
 
-<img src="https://github.com/MayChoueib/Projet-Conception-d-une-application-de-sante-publique-Open-Food-Fact-/blob/main/produits-scores-healthy.jpg" width="600" height="150" />
+<img src="https://github.com/MayChoueib/Projet-Conception-d-une-application-de-sante-publique-Open-Food-Fact-/blob/main/ex-produits-scores.jpg" width="600" height="150" />
 
 <img src="https://github.com/MayChoueib/Projet-Conception-d-une-application-de-sante-publique-Open-Food-Fact-/blob/main/carbs-sodium-nutriscore2.jpg" width="500" height="250" />
 

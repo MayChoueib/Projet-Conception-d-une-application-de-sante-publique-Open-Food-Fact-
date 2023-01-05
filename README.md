@@ -28,7 +28,7 @@ L’application peut facilement être étendue pour d'autres maladies chroniques
 Cependant, étant basée sur les données de « Open Food Fact » la fiabilité de l'application en dépend de celle de ces données. A noter que le Nutri-Score fourni par le jeu des données de « Open Food Fact » ne se concorde pas avec les scores de certaines maladies qui se basent entre autre sur les quantités de sucre ou de sel à consommer. 
 
 
-<img src="https://github.com/MayChoueib/Projet-Conception-d-une-application-de-sante-publique-Open-Food-Fact-/blob/main/ex-produits-scores.jpg" width="900" height="150" />
+<img src="https://github.com/MayChoueib/Projet-Conception-d-une-application-de-sante-publique-Open-Food-Fact-/blob/main/ex-produits-scores.jpg" width="900" height="200" />
 
 <img src="https://github.com/MayChoueib/Projet-Conception-d-une-application-de-sante-publique-Open-Food-Fact-/blob/main/carbs-sodium-nutriscore2.jpg" width="600" height="350" />
 

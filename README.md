@@ -14,16 +14,16 @@ o	106 colonnes de type float (macro et micro nutriments / 100g composants le pro
 o	76% de valeurs manquantes       
 
 ## Résultats 
-L'application **'NUTRI CARE'** que je propose indique si un produit alimentaire est compatible ou non avec les maladies chroniques répandues. En pratique, l'utilisateur prend en photo le produit ou son code-barre. A partir de la photo, l'application affiche un score par maladie en se basant sur les données de « Open Food Fact » et on le comparant au Nutri-Score fourni. Les scores éclaireront l'utilisateur si le produit qu'il veut acheter, est approprié pour lui ou non :
+L'application **'NUTRI CARE'** que je propose indique si un produit alimentaire est compatible ou non avec les maladies répandues. En pratique, l'utilisateur prend en photo le produit ou son code-barre. A partir de la photo, l'application affiche un score par maladie en se basant sur les données de « Open Food Fact » et on le comparant au Nutri-Score fourni. Les scores éclaireront l'utilisateur si le produit qu'il veut acheter, est approprié pour lui ou non :
 
 **Score 5 ---> produit alimentaire approprié     
 Score 1 ---> produit alimentaire non approprié**
 
-Pour l'étude de la faisabilité de l’application, j’ai inclus quatre exemples de maladies chroniques : la diabète, l'hypertension, la lithiase rénale et la maladie cœliaque (l'intolérance au gluten).  
+Pour l'étude de la faisabilité de l’application, j’ai inclus quatre exemples de maladies : la diabète, l'hypertension, la lithiase rénale et la maladie cœliaque (l'intolérance au gluten).  
 
 <img src="https://github.com/MayChoueib/Projet-Conception-d-une-application-de-sante-publique-Open-Food-Fact-/blob/main/app-Nutri-care.jpg" width="600" height="200" />
 
-L’application peut facilement être étendue pour d'autres maladies chroniques liées à l'alimentation : la maladie de cœur ‘ATHÉROME ET CORONAROPATHIES’, l'ostéoporose, la goutte (l'inflammation d'articulations due à des dépôts de cristaux d'acide urique provenant de la dégradation des aliments), etc... Pour certaines maladies, il suffit de composer un score de synthèse à partir de ceux déjà réalisés dans ce projet.   
+L’application peut facilement être étendue pour d'autres maladies liées à l'alimentation : la maladie de cœur ‘ATHÉROME ET CORONAROPATHIES’, l'ostéoporose, la goutte (l'inflammation d'articulations due à des dépôts de cristaux d'acide urique provenant de la dégradation des aliments), etc... Pour certaines maladies, il suffit de composer un score de synthèse à partir de ceux déjà réalisés dans ce projet.   
  
 Cependant, étant basée sur les données de « Open Food Fact » la fiabilité de l'application en dépend de celle de ces données. A noter que le Nutri-Score fourni par le jeu des données de « Open Food Fact » ne se concorde pas avec les scores de certaines maladies qui se basent entre autre sur les quantités de sucre ou de sel à consommer. 
 
